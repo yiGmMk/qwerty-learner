@@ -48,6 +48,17 @@ const chinaExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: 'words_1',
+    name: '经典小说名句',
+    description: '名著,名句,选自多本经典小说，如《了不起的盖茨比》、《1984》、《简爱》等',
+    category: '青少年英语',
+    tags: ['名著'],
+    url: '/dicts/words_1.json',
+    length: 88,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'cet4-sub',
     name: 'CET-4-Sub',
     description: '单词的减法-四级',

@@ -49,10 +49,11 @@ export default function DictDetail({ dictionary: dict }: { dictionary: Dictionar
 
   const onChangeChapter = useCallback(
     (index: number) => {
+      console.log('onChangeChapter', index, dict.id, currentDictId)
       setCurrentDictId(dict.id)
       setCurrentChapter(index)
       setReviewModeInfo((old) => ({ ...old, isReviewMode: false }))
-      navigate('/')
+      navigate('/words')
     },
     [dict.id, navigate, setCurrentChapter, setCurrentDictId, setReviewModeInfo],
   )
