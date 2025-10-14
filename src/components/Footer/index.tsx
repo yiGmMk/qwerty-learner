@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
         onClose={() => handleCloseInfoPanel('community')}
       >
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          Qwerty Learner 是一个开源项目，旨在为用户提供高质量、可靠的打字练习工具。
+          Typing 是一个开源项目，旨在为用户提供高质量、可靠的打字练习工具。
           <br />
           加入我们的用户社群后，您可以与我们的开发团队进行沟通，分享您的使用体验和建议，帮助我们改进产品，同时也能够及时了解我们的最新动态和更新内容。
           <br />
@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
         </p>
         <p className="text-sm text-gray-700 dark:text-gray-200">
           我们深信，与用户的良好互动和反馈是推动我们不断前进和提高的重要因素。因此，我们诚挚邀请您加入我们的社群，与我们一起打造更好的
-          「Qwerty Learner」！
+          「Typing」！
         </p>
         <br />
         <p className="text-sm text-gray-500  dark:text-gray-400">再次感谢您的支持和关注！</p>
