@@ -60,7 +60,8 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "cross-env CI=false vite build --base=/",
+    "build": "vite build --base=/",
+    "build:pages": "cross-env REACT_APP_DEPLOY_ENV=pages vite build --base=/qwerty-learner/",
     "postbuild": "node scripts/generate-sitemap.js",
     "sitemap": "node scripts/generate-sitemap.js",
     "test": "echo \"No tests\"",
