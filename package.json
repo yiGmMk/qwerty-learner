@@ -60,7 +60,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "cross-env CI=false vite build --base=./",
+    "build": "cross-env CI=false vite build --base=/",
     "postbuild": "node scripts/generate-sitemap.js",
     "sitemap": "node scripts/generate-sitemap.js",
     "test": "echo \"No tests\"",
