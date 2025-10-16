@@ -32,7 +32,7 @@
 
 ## 📸 在线访问
 
-**首选部署**: <https://typing.programnotes.cn/>
+**首选部署**: <https://typelearn.programnotes.cn/>
 GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 
 镜像仓库:

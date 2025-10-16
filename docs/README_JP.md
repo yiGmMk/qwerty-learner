@@ -28,7 +28,7 @@
 
 ## 📸 オンラインアクセス
 
-Vercel: <https://typing.programnotes.cn/> , <https://qwerty-learner.vercel.app/>
+Vercel: <https://typelearn.programnotes.cn/> , <https://qwerty-learner.vercel.app/>
 GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 Gitee Pages: <https://kaiyiwing.gitee.io/qwerty-learner/>
 

@@ -81,7 +81,7 @@ const MobilePage: React.FC = () => {
         <div className="mx-auto max-w-7xl">
           <ol className="flex items-center space-x-2 text-sm text-gray-500" itemScope itemType="https://schema.org/BreadcrumbList">
             <li itemProp="itemListElement" itemScope itemType="https://schema.org/ListItem">
-              <a href="https://typing.programnotes.cn/" className="transition-colors hover:text-indigo-600" itemProp="item">
+              <a href="https://typelearn.programnotes.cn/" className="transition-colors hover:text-indigo-600" itemProp="item">
                 <span itemProp="name">首页</span>
               </a>
               <meta itemProp="position" content="1" />
@@ -200,7 +200,7 @@ const MobilePage: React.FC = () => {
               <meta itemProp="price" content="0" />
               <meta itemProp="priceCurrency" content="USD" />
               <meta itemProp="availability" content="https://schema.org/InStock" />
-              <meta itemProp="url" content="https://typing.programnotes.cn/" />
+              <meta itemProp="url" content="https://typelearn.programnotes.cn/" />
             </div>
 
             {/* Aggregate Rating */}

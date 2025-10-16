@@ -32,7 +32,7 @@
 
 We have deployed Typing on many platforms. You can try Typing in following ways.
 
-- Vercel: <https://typing.programnotes.cn/>, or <https://qwerty-learner.vercel.app/>.
+- Vercel: <https://typelearn.programnotes.cn/>, or <https://qwerty-learner.vercel.app/>.
 - GitHub Pages: <https://kaiyiwing.github.io/qwerty-learner/>.
 - Gitee Pages (recommended for people in mainland China): <https://kaiyiwing.gitee.io/qwerty-learner/>.
 

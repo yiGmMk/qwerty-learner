@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://typing.programnotes.cn/sitemap.xml
+Sitemap: https://typelearn.programnotes.cn/sitemap.xml
